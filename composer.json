@@ -21,10 +21,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Anonym\\Support": ""
-    },
-    "classmap": [
-      "vendor/composer"
-    ]
+      "Anonym\\Support\\": ""
+    }
   }
 }
